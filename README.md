@@ -2,5 +2,5 @@
 
 _Created using HTML, CSS & JS_
 
-![Tic-Tac-Toe](../../Pictures/Tic-Tac-Toe.png)
+![Tic-Tac-Toe](/images/Tic-Tac-Toe.png)
 
